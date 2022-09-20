@@ -61,11 +61,6 @@ mysql > SET GLOBAL max_allowed_packet=4294967295;
 
 This project is inspired by [Wikitten](https://github.com/zthxxx/hexo-theme-Wikitten) and [PPOffice](https://github.com/ppoffice), thanks.
 
-## 捐助
-
-如果这个项目有帮助到你，请考虑向我捐助：
-
-![](https://wx1.sinaimg.cn/large/0060lm7Tly1g0c4cbi71lj30sc0iv453.jpg)
 
 ## LICENSE
 
