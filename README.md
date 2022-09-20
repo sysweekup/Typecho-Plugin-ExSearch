@@ -1,4 +1,4 @@
-# Typecho-Plugin-ExSearch  支持typecho 1.2.0
+# Typecho-Plugin-ExSearch
 
 > 🔍 为 Typecho 带来实时搜索体验 [![build status](https://img.shields.io/travis/AlanDecode/Typecho-Plugin-ExSearch/source.svg?style=flat-square)](https://travis-ci.org/AlanDecode/Typecho-Plugin-ExSearch)
 
